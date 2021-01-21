@@ -4,7 +4,7 @@ Here are all my solutions for the challenges hosted on DevChallenges.io
 
 ## [Responsive Web Developer Path](https://devchallenges.io/paths/responsiveWebPaths)
 Basic responsive web applications built using HTML/CSS/Javascript.
-* Challenge 1: [404 Not Found](https://github.com/Shivaansh-Agarwal/DevChallenges.io/tree/main/01%20Responsive-Web/404-not-found-master)
+* Challenge 1: [404 Not Found](https://shivaansh-agarwal.github.io/DevChallenges.io/01%20Responsive-Web/404-not-found-master)
 * Challenge 2:
 * Challenge 3:
 * Challenge 4:
