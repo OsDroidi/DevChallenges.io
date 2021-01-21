@@ -8,11 +8,13 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://shivaansh-agarwal.github.io/DevChallenges.io/01%20Responsive-Web/404-not-found-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a herf="https://github.com/Shivaansh-Agarwal/DevChallenges.io/tree/main/01%20Responsive-Web/404-not-found-master">Repository</a>
+    <span> | </span>
+    <a href="https://devchallenges.io/solutions/nkzI6vZWPDuQF1RL2sE2">
       Solution
     </a>
     <span> | </span>
