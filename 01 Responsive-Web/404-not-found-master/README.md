@@ -35,10 +35,10 @@
 
 ## Overview
 Desktop View
-![screenshot](on1.png)
+![screenshot](./on1.png)
 <div style="text-align: center">
 Mobile View <br>
-<img src="on2.png"></img>
+<img src="./on2.png"></img>
 </div>
 
 This is my first challenge on [DevChallenges](https://devchallenges.io/challenges).
