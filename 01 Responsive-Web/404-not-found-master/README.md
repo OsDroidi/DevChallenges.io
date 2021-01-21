@@ -35,10 +35,11 @@
 
 ## Overview
 Desktop View
-![screenshot](./on1.png)
+![screenshot](https://github.com/Shivaansh-Agarwal/DevChallenges.io/blob/main/01%20Responsive-Web/404-not-found-master/on1.png)
+
 <div style="text-align: center">
 Mobile View <br>
-<img src="./on2.png"></img>
+<img src="https://github.com/Shivaansh-Agarwal/DevChallenges.io/blob/main/01%20Responsive-Web/404-not-found-master/on2.PNG"></img>
 </div>
 
 This is my first challenge on [DevChallenges](https://devchallenges.io/challenges).
