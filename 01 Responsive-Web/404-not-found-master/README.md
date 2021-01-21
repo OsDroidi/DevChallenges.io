@@ -35,8 +35,7 @@
 
 ## Overview
 Desktop View
-<img src="https://github.com/Shivaansh-Agarwal/DevChallenges.io/blob/main/01%20Responsive-Web/404-not-found-master/on2.PNG"></img>
-![screenshot]()
+<img src="https://github.com/Shivaansh-Agarwal/DevChallenges.io/blob/main/01%20Responsive-Web/404-not-found-master/on1.PNG"></img>
 
 <div style="text-align: center">
 Mobile View <br>
